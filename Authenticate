@@ -22,4 +22,3 @@ public class Password_Gene-Test
       }
         while(!pa33word.equals(pa33word1));
 
-//I feel like this definitely need some renovation
